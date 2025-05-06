@@ -3,8 +3,9 @@
 This is gonna be a load of different common shareware/etc. licenses in different styles.
 
 **Structure:**
-- Boykisser licenses \{Branch}
-  - Apache
+- Boykisser licenses \{Branch with name 'Boykisser'}
     - \<USER>_\<Theme>-\<BASE>
-  - GPL
     - DVPF_BK-GPL3
+
+**Current Styles/branches:**
+- Boykisser
