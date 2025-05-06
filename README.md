@@ -5,6 +5,6 @@ This is gonna be a load of different common shareware/etc. licenses in different
 **Structure:**
 - Boykisser licenses
   - Apache
-    - <USER>_<Theme>-<BASE>
+    - \<USER>_\<Theme>-\<BASE>
   - GPL
     - DVPF_BK-GPL3
