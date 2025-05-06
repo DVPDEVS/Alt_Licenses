@@ -3,7 +3,7 @@
 This is gonna be a load of different common shareware/etc. licenses in different styles.
 
 **Structure:**
-- Boykisser licenses
+- Boykisser licenses \{Branch}
   - Apache
     - \<USER>_\<Theme>-\<BASE>
   - GPL
